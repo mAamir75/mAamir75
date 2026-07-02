@@ -25,7 +25,6 @@ Full CRUD blog with CKEditor rich text, AJAX like/unlike system, and complete au
 
 ### GitHub Stats
 
-![Aamirs's GitHub stats](https://github-readme-stats-liart-nine.vercel.app/api?username=mAamir75&show_icons=true&theme=default&hide_border=true)
-### Connect
+![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mAamir75&show_icons=true&theme=default&hide_border=true)### Connect
 
 📧 [Email](mailto:innovator0753@gmail.com)
